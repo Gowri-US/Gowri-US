@@ -1,9 +1,9 @@
-![MasterHead](https://i.pinimg.com/originals/7e/b2/49/7eb249f2fd2e58e9ad6dd60ef892971b.gif)
+![MasterHead](https://backiee.com/static/wallpapers/1920x1080/386745.jpg)
 <h1 align="center">Hi 👋, I'm Gowri U S</h1>
 <h3 align="center">A passionate Software developer from Kerala</h3>
-<img align="right" alt="coding" width="400" src="https://blog.imarticus.org/wp-content/uploads/2021/12/gew.gif"></img>
+<img align="left" alt="coding" width="400" src="https://static.vecteezy.com/system/resources/previews/042/165/684/non_2x/a-woman-in-a-business-suit-holding-a-laptop-free-png.png"></img>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Gowri-US&label=Profile%20views&color=0e75b6&style=flat" alt="gowrius" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=Gowri-US&label=Profile%20views&color=0e75b6&style=flat" alt="gowrius" /> </p>
 
 - 🔭 I’m currently working on *Flutter, Dart, JAVASCRIPT ,*
 - 📫 Contact me *gowrikunju1805@gmail.com*
@@ -21,4 +21,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Gowri-US&show_icons=true&locale=en" alt="gowrius" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gowri-US&" alt="gowrius" /></p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Gowri-US&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
